@@ -1,0 +1,14 @@
+{
+  "name": "airline",
+  "version": "1.0.0",
+  "description": "Keeps track of an airplane lfights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renato",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
